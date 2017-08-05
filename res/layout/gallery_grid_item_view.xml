@@ -42,5 +42,6 @@
         android:layout_gravity="top|end"
         android:paddingTop="4dp"
         android:visibility="gone"
+        android:tint="@color/primary_color"
         android:contentDescription="@string/gallery_checkbox_content_description" />
 </com.android.messaging.ui.mediapicker.GalleryGridItemView>

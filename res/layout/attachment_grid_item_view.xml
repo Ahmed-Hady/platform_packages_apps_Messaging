@@ -39,5 +39,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="top|end"
         android:paddingTop="4dp"
+        android:tint="@color/primary_color"
         android:contentDescription="@string/gallery_checkbox_content_description" />
 </com.android.messaging.ui.attachmentchooser.AttachmentGridItemView>
